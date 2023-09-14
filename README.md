@@ -38,6 +38,7 @@ Waka Time Live update
 
 <!-- Profile Views Icon Section -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AshrafulOfficial&color=blueviolet)
+![Profile Views](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FAshrafulOfficial%2FAshrafulOfficial?style=flat&logo=wakatime&logoColor=rgb&labelColor=rgb&color=rgb)
 
 <!-- Contact Me Section -->
 ## 📫 Contact Me
