@@ -54,19 +54,6 @@ I'm a passionate Student from Jatiya Kabi Kazi Nazrul Islam University, Trishal,
 ![C](https://img.shields.io/badge/-C-333333?logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
 
-<!-- Programming Section -->
-## 💻 Programming
-
-```python
-print("Hello, World!")
-
-def main():
-    # Your code here
-    pass
-
-if __name__ == "__main__":
-    main()
-
 <!-- Contact Section -->
 ## 📫 Get in Touch
 
