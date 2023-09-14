@@ -32,7 +32,7 @@ I'm a passionate Student from Jatiya Kabi Kazi Nazrul Islam University, Trishal,
   <img src="https://github-readme-stats.vercel.app/api?username=AshrafulOfficial&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<! -- waka time section> -- >
+<! -- waka time section -- >
 Waka Time Live update
 [![WakaTime Activity](https://wakatime.com/badge/user/AshrafulOfficial.svg)](https://wakatime.com/@AshrafulOfficial)
 
