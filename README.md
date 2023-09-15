@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/AshrafulOfficial/AshrafulOfficial/blob/main/assets/header.gif" alt="Header Image">
+  <img src="https://github.com/AshrafulOfficial/AshrafulOfficial/blob/main/assets/waving-hand.gif" alt="Header Image">
 </p>
 
 <!-- Introduction Section -->
