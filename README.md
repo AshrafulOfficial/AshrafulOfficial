@@ -43,7 +43,7 @@ Waka Time Live update here
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashrafulofficialc">
+  <a href="https://www.linkedin.com/in/ashrafulofficial-in/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://twitter.com/AshrafulIs48377">
