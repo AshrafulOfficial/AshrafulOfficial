@@ -198,8 +198,8 @@ me.say_hi()
 | 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |-----------|---------------|----------|----|
 | **JKKNIU Social Media App** | Full-stack university social media platform with real-time features | React, Node.js, MongoDB, Docker | [Repo](https://github.com/AshrafulOfficial/JKKNIU-Social-Media-App) |
-| **Bus Tracker** | Real-time university bus tracking system with live location updates | React, Node.js, Google Maps API | [Repo](https://github.com/AshrafulOfficial) |
-| **Smart Door Lock** | IoT + Software based intelligent door lock with remote access & face recognition | Python, OpenCV, Arduino, IoT | [Repo](https://github.com/AshrafulOfficial) |
+| **Bus Tracker** | Real-time university bus tracking system with live location updates | React, Node.js, Google Maps API | [Repo](https://github.com/AshrafulOfficial/bus_tracker.git) |
+| **Smart Door Lock** | IoT + Software based intelligent door lock with remote access & face recognition | Python, OpenCV, Arduino, IoT | [Repo](https://github.com/AshrafulOfficial/Smart-Door-Lock.git) |
 | **Flight Scheduling & Delay Notification System** | Automated flight management system with real-time delay alerts | React, Node.js, MongoDB | [Repo](https://github.com/AshrafulOfficial) |</div>
 
 ---
