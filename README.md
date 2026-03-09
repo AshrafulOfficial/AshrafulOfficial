@@ -6,11 +6,11 @@
 <!-- Introduction Section -->
 # Hi there, I'm Ashraful Islam 👋
 
-I'm a passionate Student from Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh,Bangladesh, and I love coding, open-source, and building cool stuff!
+I'm a passionate student and researcher from Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh, and I love coding, open-source, and building cool stuff!
 
 ##  Tech Stack 🛠 &nbsp; :
 
-<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/AshrafulOfficial/AshrafulOfficial/main/Assets/coding.gif" align="right"/>
+<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/AshrafulOfficial/AshrafulOfficial/main/assets/coding.gif" align="right"/>
 
 <!-- Skills Section -->
 ## 🔧 Skills
@@ -25,6 +25,13 @@ I'm a passionate Student from Jatiya Kabi Kazi Nazrul Islam University, Trishal,
 - Exploring Machine Learning with TensorFlow
 - Improving my web design skills
 - Contributing more to open-source projects
+
+<!-- Research Section -->
+## 🔬 Research Interests
+
+- Artificial Intelligence and Machine Learning
+- Data Science and Big Data Analytics
+- Open-Source Software Development
 
 <!-- GitHub Stats Section -->
 📊 GitHub Stats
