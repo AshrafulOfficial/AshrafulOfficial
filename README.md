@@ -55,14 +55,17 @@ me.say_hi()
 
 <div align="center">
 
-| 🎖️ Certification | 🏛️ Organization | 📅 Year |
-|------------------|----------------|---------|
-| **IEEE i-COSTE 2025** — Research Publication & Certification | IEEE (Institute of Electrical and Electronics Engineers) | 2025 |
+| 🎖️ Certificate | 🏛️ Conference / Organization | 📍 Venue | 📅 Year |
+|----------------|------------------------------|----------|---------|
+| **IEEE i-COSTE 2025** — Solar-Powered IoT-Based Smart Farming Model (SPISFM) | IEEE i-COSTE | — | 2025 |
+| **Certificate of Participation** — Deep Learning-Assisted Detection of Tree Canopy for Afforestation Targeting | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2024 |
+| **Certificate of Participation** — An Intelligent Solar-Based Agricultural Automation System | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2024 |
 
 <br/>
 
-![IEEE](https://img.shields.io/badge/IEEE-Certified%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-![Research](https://img.shields.io/badge/Research-Published-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE-i--COSTE%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![MEETCON](https://img.shields.io/badge/MEETCON-2x%20Certified-2E8B57?style=for-the-badge&logo=researchgate&logoColor=white)
+![Papers](https://img.shields.io/badge/Research-3%20Papers%20Published-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Deep%20Learning%20Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
@@ -234,6 +237,20 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+---
+
+## ⏱️ Coding Activity (WakaTime)
+
+<div align="center">
+
+[![WakaTime](https://wakatime.com/badge/user/AshrafulOfficial.svg)](https://wakatime.com/@AshrafulOfficial)
+
+<a href="https://wakatime.com/@AshrafulOfficial">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AshrafulOfficial&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
+</a>
+
+</div>
 
 ---
 
