@@ -111,7 +111,7 @@ I love exploring new technologies and contributing to open-source projects. When
 ## 📫 Get in Touch
 
 - 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
-- 💬 **LinkedIn**: [linkedin.com/in/ashrafulofficialc](https://www.linkedin.com/in/ashrafulofficial-in/)
-- 🐦 **Twitter**: [@AshrafulIs48377](https://x.com/mralex576155)
+- 💬 **LinkedIn**: [linkedin.com/in/ashrafulofficial-in/](https://www.linkedin.com/in/ashrafulofficial-in/)
+- 🐦 **Twitter**: [@mralex576155](https://x.com/mralex576155)
 
 Feel free to reach out to me for collaboration or just to say hi! 😄
