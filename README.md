@@ -57,6 +57,18 @@ I'm a passionate student and researcher from Jatiya Kabi Kazi Nazrul Islam Unive
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrafulOfficial&theme=github-dark" alt="Activity Graph" />
 </p>
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshrafulOfficial&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Random Dev Quote -->
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 <!-- waka time section -->
 ## ⏱️ Coding Time (WakaTime)
 <p align="center">
