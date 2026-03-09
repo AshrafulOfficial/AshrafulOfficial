@@ -58,8 +58,8 @@ me.say_hi()
 | 🎖️ Certificate | 🏛️ Conference / Organization | 📍 Venue | 📅 Year |
 |----------------|------------------------------|----------|---------|
 | **IEEE i-COSTE 2025** — Solar-Powered IoT-Based Smart Farming Model (SPISFM) | IEEE i-COSTE | — | 2025 |
-| **Certificate of Participation** — Deep Learning-Assisted Detection of Tree Canopy for Afforestation Targeting | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2024 |
-| **Certificate of Participation** — An Intelligent Solar-Based Agricultural Automation System | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2024 |
+| **Certificate of Participation** — Deep Learning-Assisted Detection of Tree Canopy for Afforestation Targeting | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2025 |
+| **Certificate of Participation** — An Intelligent Solar-Based Agricultural Automation System | MEETCON-WORK International Food, Agriculture & Veterinary Sciences Congress | Şanlıurfa, Türkiye | 2025 |
 
 <br/>
 
