@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/AshrafulOfficial/AshrafulOfficial/blob/main/assets/header.gif" alt="Header Image">
+  <img src="https://github.com/AshrafulOfficial/AshrafulOfficial/blob/main/Assets/header.gif" alt="Header Image">
 </p>
 
 <!-- Introduction Section -->
@@ -10,7 +10,7 @@ I'm a passionate student and researcher from Jatiya Kabi Kazi Nazrul Islam Unive
 
 ##  Tech Stack 🛠 &nbsp; :
 
-<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/AshrafulOfficial/AshrafulOfficial/main/assets/coding.gif" align="right"/>
+<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/AshrafulOfficial/AshrafulOfficial/main/Assets/coding.gif" align="right"/>
 
 <!-- Skills Section -->
 ## 🔧 Skills
@@ -35,6 +35,15 @@ I'm a passionate student and researcher from Jatiya Kabi Kazi Nazrul Islam Unive
 - Artificial Intelligence and Machine Learning
 - Data Science and Big Data Analytics
 - Open-Source Software Development
+
+<!-- AI Tools & Frameworks -->
+## 🤖 AI Tools & Frameworks
+
+- **TensorFlow**: For building and training machine learning models
+- **PyTorch**: For deep learning and neural networks
+- **Hugging Face Transformers**: For natural language processing tasks
+- **Scikit-learn**: For traditional machine learning algorithms
+- **OpenAI API**: For integrating AI capabilities in projects
 
 <!-- Projects Section -->
 ## 🚀 Featured Projects
