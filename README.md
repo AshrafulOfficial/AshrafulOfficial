@@ -170,28 +170,37 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshrafulOfficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulOfficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshrafulOfficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600&v=1"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulOfficial&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600&v=1"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AshrafulOfficial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AshrafulOfficial&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrafulOfficial&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
+> ⚠️ *Stats may show limited data if repositories are private. Make your repos public to show full analytics.*
+
 ---
 
 ## 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|----------|
-| [JKKNIU Social Media App](https://github.com/AshrafulOfficial/JKKNIU-Social-Media-App) | Full-stack university social media platform | React, Node.js, MongoDB, Docker |
-| [AI Chatbot](https://github.com/AshrafulOfficial/ai-chatbot) | Intelligent NLP chatbot | Python, TensorFlow |
-| [Web Portfolio](https://github.com/AshrafulOfficial/web-portfolio) | Responsive personal portfolio | React, Node.js |
-| [Data Analysis Toolkit](https://github.com/AshrafulOfficial/data-toolkit) | Data cleaning & visualization scripts | Python, Pandas, Matplotlib |
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|-----------|---------------|----------|----|
+| **JKKNIU Social Media App** | Full-stack university social media platform with real-time features | React, Node.js, MongoDB, Docker | [Repo](https://github.com/AshrafulOfficial/JKKNIU-Social-Media-App) |
+| **Bus Tracker** | Real-time university bus tracking system with live location updates | React, Node.js, Google Maps API | [Repo](https://github.com/AshrafulOfficial) |
+| **Smart Door Lock** | IoT + Software based intelligent door lock with remote access & face recognition | Python, OpenCV, Arduino, IoT | [Repo](https://github.com/AshrafulOfficial) |
+| **Flight Scheduling & Delay Notification System** | Automated flight management system with real-time delay alerts | React, Node.js, MongoDB | [Repo](https://github.com/AshrafulOfficial) |</div>
 
 ---
 
