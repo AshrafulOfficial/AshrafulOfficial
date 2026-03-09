@@ -170,9 +170,13 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshrafulOfficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600&v=1"/>
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=AshrafulOfficial&cc=0d1117&tc=6AD3F7&ic=ffffff&bc=0d1117"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulOfficial&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600&v=1"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshrafulOfficial&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshrafulOfficial&theme=tokyonight" width="100%"/>
 </div>
 
 <br/>
@@ -198,8 +202,8 @@ me.say_hi()
 | 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |-----------|---------------|----------|----|
 | **JKKNIU Social Media App** | Full-stack university social media platform with real-time features | React, Node.js, MongoDB, Docker | [Repo](https://github.com/AshrafulOfficial/JKKNIU-Social-Media-App) |
-| **Bus Tracker** | Real-time university bus tracking system with live location updates | React, Node.js, Google Maps API | [Repo](https://github.com/AshrafulOfficial/bus_tracker.git) |
-| **Smart Door Lock** | IoT + Software based intelligent door lock with remote access & face recognition | Python, OpenCV, Arduino, IoT | [Repo](https://github.com/AshrafulOfficial/Smart-Door-Lock.git) |
+| **Bus Tracker** | Real-time university bus tracking system with live location updates | React, Node.js, Google Maps API | [Repo](https://github.com/AshrafulOfficial/bus_tracker) |
+| **Smart Door Lock** | IoT + Software based intelligent door lock with remote access & face recognition | Python, OpenCV, Arduino, IoT | [Repo](https://github.com/AshrafulOfficial/Smart-Door-Lock) |
 | **Flight Scheduling & Delay Notification System** | Automated flight management system with real-time delay alerts | React, Node.js, MongoDB | [Repo](https://github.com/AshrafulOfficial) |</div>
 
 ---
