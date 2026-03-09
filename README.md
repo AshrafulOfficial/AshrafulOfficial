@@ -80,7 +80,7 @@ I love exploring new technologies and contributing to open-source projects. When
   <a href="https://www.linkedin.com/in/ashrafulofficial-in/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://twitter.com/AshrafulIs48377">
+  <a href="https://x.com/mralex576155">
     <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="mailto:ashrafulofficialc@gmail.com">
@@ -99,7 +99,7 @@ I love exploring new technologies and contributing to open-source projects. When
 ## 📫 Get in Touch
 
 - 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
-- 💬 **LinkedIn**: [linkedin.com/in/ashrafulofficialc](https://linkedin.com/in/ashrafulofficialc)
-- 🐦 **Twitter**: [@AshrafulIs48377](https://twitter.com/AshrafulIs48377)
+- 💬 **LinkedIn**: [linkedin.com/in/ashrafulofficialc](https://www.linkedin.com/in/ashrafulofficial-in/)
+- 🐦 **Twitter**: [@AshrafulIs48377](https://x.com/mralex576155)
 
 Feel free to reach out to me for collaboration or just to say hi! 😄
