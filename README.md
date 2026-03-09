@@ -244,13 +244,13 @@ me.say_hi()
 
 <div align="center">
 
-[![WakaTime](https://wakatime.com/badge/user/AshrafulOfficial.svg?style=for-the-badge)](https://wakatime.com/@AshrafulOfficial)
+<a href="https://wakatime.com/@AshrafulOfficial">
+  <img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Stats-6A5ACD?style=for-the-badge&logo=wakatime&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-> 🔧 *WakaTime is connected! Stats will appear here once coding activity is tracked via the VS Code WakaTime plugin.*
->
-> 👉 **[View full coding stats on WakaTime →](https://wakatime.com/@AshrafulOfficial)**
+> 👉 **[View full coding activity on WakaTime →](https://wakatime.com/@AshrafulOfficial)**
 
 </div>
 
